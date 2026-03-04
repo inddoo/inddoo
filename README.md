@@ -1,77 +1,120 @@
+<h1 align="center">Hi 👋, I'm Inddoo</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&text=INDDOO&fontSize=70&color=0:000000,100:0f0f0f&fontColor=00ff99&animation=fadeIn&desc=Fullstack+Hacker&descAlign=center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create" alt="Typing SVG" />
+</p>
+
+<br>
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **web development projects**
+- 🌱 I'm currently learning **new technologies**
+- 💬 Ask me about **JavaScript, PHP, React**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **I think I'm funny**
+
+<br>
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight" alt="inddoo" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Architect;Digital+Builder;Debugging+the+Matrix..." alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 TERMINAL_BIO.sh
-
-```javascript
-const inddoo = {
-    location: "Indonesia",
-    role: "Fullstack Hacker",
-    tech: ["JavaScript", "Laravel", "Node.js", "React"],
-    currentFocus: "Building high-scalable systems",
-    funFact: "I debug with console.log() and coffee ☕"
-};
-```
-
----
-
-### ⚡ CORE_SKILLS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mongodb,mysql,git,docker,html,css&theme=dark" />
-</p>
-
----
-
-### 📊 SYSTEM_METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=chartreuse-dark&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&border=00ff99" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=tokyonight" alt="inddoo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inddoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="inddoo" />
 </p>
 
----
+<br>
 
-### 🐍 CONTRIBUTION_SNAKE
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/inddoo/inddoo/output/snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="inddoo" />
 </p>
 
----
+<br>
 
-### 🏆 HALL_OF_FAME
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=radical&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
+<br>
 
-### 🌐 ENCRYPTED_CHANNELS
+## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff99&borderColor=00ff99" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff99" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00ff99" /></a>
+  <a href="https://linkedin.com/in/your-profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/your-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inddoo&color=00ff99&style=flat-square&label=VISITOR+ACCESS" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=120&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=inddoo&label=Profile%20views&color=0e75b6&style=flat" alt="inddoo" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/inddoo">inddoo</a></i>
 </p>
