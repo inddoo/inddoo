@@ -1,67 +1,79 @@
-# 🏙️ THE NEON CONCRETE COLLECTIVE [0.1]
+# 🏙️ CITY_TERMINAL / USER: INDDOO
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRjZTFhNGZlZjg5NjNmZTI5ZGFmOGNkZjViNmZlMzZjMmIzMGMzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3U91vE9h53VfE6l71/giphy.gif" width="700" alt="Cityscape 3D Loop">
-  <br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UzNWZjNmExZTg4MmM2ZjNmZTRhOTMxYTIxNWQzMTRlMTM5NmJiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2bQk6m0r90R98C2I1/giphy.gif" height="50" alt="Urban Typo">
-  <p align="center">
-    <h3>
-      Full-Stack Developer | Urban Explorer | Cyber-Realist
-    </h3>
-  </p>
+<pre>
+  ___  __    _  ________  ________  ________  ________  ________  
+ /__/\/_/\  /_/\/_  __  \/\  __  \/\  __  \/\  __  \/\  __  \ 
+ \  \ \ \ \ \ \ \ \ \/\  \ \ \/\  \ \ \/\  \ \ \/\  \ \ \/\  \
+  \  \ \ \ \ \ \ \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \
+   \  \ \ \ \_\ \ \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \
+    \__\/  \_____\/\__\/ \__\/\__\/ \__\/\__\/ \__\/ \__\/\__\/ 
+           v3.0 // URBAN_CORE_SYSTEM // EST. 2026
+</pre>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="GithHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=nightowl&hide_border=true" alt="Top Langs" height="150" />
+### ⚡ FULL-STACK ARCHITECT // CREATIVE TECHNOLOGIST ⚡
+*Arsitek digital di tengah rimba neon. Mengubah baris kode menjadi infrastruktur masa depan.*
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff" alt="Inddoo Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Top Langs" height="160" />
+
 </div>
 
----
+## 🏗️ THE_STACK (URBAN_INFRASTRUCTURE)
 
-## ⚡/THE_CORE_PROGRAM
+Gue nggak cuma ngetik, gue ngebangun. Ini daftar "alat berat" yang gue pake:
 
-Gue percaya pada perpaduan estetika urban dan fungsionalitas digital. Di sini, lo bakal nemuin projek-projek yang berfokus pada:
+### 🔗 [FRONT_END_DISTRICT]
+* **Languages:** `JavaScript (ES6+)`, `TypeScript`, `HTML5/CSS3`
+* **Frameworks:** `React.js`, `Next.js 14+`, `Vue.js`
+* **Styling:** `Tailwind CSS`, `Sass`, `Framer Motion`, `GSAP` (Smooth Animations)
+* **3D/Visual:** `Three.js`, `React Three Fiber`, `Spline`
 
-### [01] ARSITEKTUR KODE
-- <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/javascript.svg" height="20" alt="JavaScript"> JavaScript/TypeScript - Fundamental.
-- <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/react.svg" height="20" alt="React"> React & Next.js - Membangun UI yang mulus.
-- <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/nodedotjs.svg" height="20" alt="Node.js"> Node.js - Di balik layar.
+### ⚙️ [BACK_END_PLANT]
+* **Runtime/Lang:** `Node.js`, `Bun`, `Go (Golang)`, `Python`
+* **Frameworks:** `Express`, `NestJS`, `FastAPI`
+* **Database:** `PostgreSQL`, `MongoDB`, `Redis`, `Supabase`
+* **Architecture:** `REST API`, `GraphQL`, `Microservices`
 
-### [02] VISUAL & ESTETIKA (HACK 3D!)
-Gue punya minat di visualisasi 3D dan interaktivitas.
-- **Blender / Unity:** Untuk modeling dan animasi 3D urban.
-- **Three.js / React-Three-Fiber:** Membawa 3D ke web.
-
----
-
-## 🚧/THE_PROJECT_PIPELINE
-
-Ini adalah projek-projek yang lagi gue kerjain:
-
-- [ ] `cyberpunk-weather`: Aplikasi cuaca dengan gaya Cyberpunk.
-- [ ] `urban-planner-3d`: Alat visualisasi tata kota dalam 3D.
-- [ ] `code-glitch-filter`: Filter shader glitch untuk editor kode.
+### 🛰️ [DEVOPS_&_SYSTEMS]
+* **Cloud:** `AWS`, `Vercel`, `DigitalOcean`
+* **Containers:** `Docker`, `Kubernetes`
+* **CI/CD:** `GitHub Actions`, `Gitlab CI`
+* **Tools:** `Git`, `Postman`, `Linux/Zsh`
 
 ---
 
-## 🌐/CONNECT_WITH_THE_SOURCE
+## 🚧 ACTIVE_CONSTRUCTION (PROJECTS)
 
-Ada ide projek gila? Atau mau ngobrol tentang masa depan kota pintar?
+| Project Name | Status | Tech Stack |
+| :--- | :--- | :--- |
+| **NeonCity-Dashboard** | `Building` | Next.js, Three.js, Tailwind |
+| **Inddoo-API-Core** | `Stable` | Go, PostgreSQL, Redis |
+| **Grid-Runner-UI** | `Beta` | React, Framer Motion, GSAP |
+
+---
+
+## 📡 CONNECT_TO_SOURCE
+
+> "The code is the city, and I am the architect."
 
 <div align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_HERE">
-    <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/twitter.svg" height="25" alt="Twitter">
-  </a> &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-    <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/linkedin.svg" height="25" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/gmail.svg" height="25" alt="Gmail">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:contact@inddoo.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
+<br />
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/SimpleIcons/simple-icons/develop/icons/glitch.svg" height="15" alt="Glitch Icon">
-  <sub>Generated by: [The Neon Concrete Collective] v0.1</sub>
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM_VISITS&color=00f2ff&style=flat-square" alt="Visits" />
+</p>
