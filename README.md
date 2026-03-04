@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=INDDOO&fontSize=70&color=0:000000,100:0f0f0f&fontColor=00ff99&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&text=INDDOO&fontSize=70&color=0:000000,100:0f0f0f&fontColor=00ff99&animation=fadeIn&desc=Fullstack+Hacker&descAlign=center" />
 </p>
 
 <p align="center">
@@ -9,11 +9,9 @@
 ---
 
 <p align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=inddoo&color=00ff99&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/inddoo?color=00ff99&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/inddoo?color=00ff99&style=for-the-badge)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=inddoo&color=00ff99&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/inddoo?color=00ff99&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/inddoo?color=00ff99&style=for-the-badge)
 </p>
 
 ---
@@ -21,16 +19,14 @@
 ## ⚡ STACK
 
 <p align="center">
-
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00ff99)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff99)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff99)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
-
+  ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
+  ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
+  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00ff99)
+  ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff99)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff99)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
 </p>
 
 ---
@@ -48,6 +44,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/inddoo/inddoo/output/snake-dark.svg" />
+</p>
+
+---
+
+## ✨ PARTICLE EFFECT
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/inddoo/particle-badge@main/particle.svg" width="400" />
 </p>
 
 ---
