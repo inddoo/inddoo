@@ -45,7 +45,11 @@
 ### 🐍 CONTRIBUTION_SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/inddoo/inddoo/output/snake-dark.svg" width="100%" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -53,9 +57,11 @@
 ### ✨ PARTICLE_FIELD
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/inddoo/particle-badge@main/particle.svg" width="350" />
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 <p align="center">
