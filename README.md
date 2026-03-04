@@ -49,10 +49,21 @@ const inddoo = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=radical&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=chartreuse-dark&background=0d1117&ring=00ff99&fire=ff6e00&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d&hide_border=false" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff99&text_color=ffffff&border_color=00ff99&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10&card_width=445" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=inddoo&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inddoo&theme=github_dark" width="100%" />
 
 </div>
 
