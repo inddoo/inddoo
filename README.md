@@ -20,12 +20,12 @@
 ## 🎧 Now Playing - Hacker Soundtrack
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
-<!-- Alternative Spotify Widget - Uncomment to use -->
+<!-- Alternative: Show Top Tracks -->
 <!--
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify Recently Played" />
@@ -39,42 +39,79 @@
 </p>
 
 <details>
-<summary>🎵 Setup Spotify Integration</summary>
+<summary>🎵 Setup Spotify Integration (Step-by-Step)</summary>
 
 <br>
 
-**How to connect your Spotify:**
+### **Method 1: Using Vercel (Recommended - Secure & Auto-refresh)**
 
-1. Go to [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile)
-2. Click "Deploy to Vercel" button
-3. Connect your Spotify account
-4. Get your Spotify User ID:
-   - Go to [Spotify Account](https://www.spotify.com/account/overview/)
-   - Copy your username/user ID
-5. Replace `YOUR_SPOTIFY_USER_ID` in the URL above
-6. Your currently playing song will show in real-time!
+1. **Fork the Spotify GitHub Profile repo:**
+   - Go to: https://github.com/kittinan/spotify-github-profile
+   - Click "Fork" button
 
-**Alternative Tools:**
-- [Spotify Recently Played](https://github.com/JeffreyCA/spotify-recently-played-readme) - Show last 5 songs
-- [Spotify Top Tracks](https://github.com/kittinan/spotify-github-profile) - Show your top tracks
+2. **Deploy to Vercel:**
+   - Go to: https://vercel.com/new
+   - Import your forked repository
+   - Click "Deploy"
 
-**Customization:**
+3. **Connect Spotify:**
+   - After deployment, visit: `https://YOUR-VERCEL-APP.vercel.app/api/login`
+   - Login with your Spotify account
+   - Authorize the app
+
+4. **Get your Spotify User ID:**
+   - Go to: https://www.spotify.com/account/overview/
+   - Copy your username (or use the one from your profile URL)
+   - Example: `spotify.com/user/31l77y2vqonjf56o8jmv5jwpq7aq` → User ID is `31l77y2vqonjf56o8jmv5jwpq7aq`
+
+5. **Update README:**
+   - Replace `YOUR_SPOTIFY_USER_ID` with your actual user ID
+   - The widget will now show your currently playing song!
+
+### **Method 2: Using Existing Service (Quick & Easy)**
+
+Just replace `YOUR_SPOTIFY_USER_ID` with your Spotify username in the image URL above. The service will handle authentication automatically.
+
+**Find your Spotify User ID:**
+- Desktop: Click your profile → Share → Copy profile link
+- Web: Go to https://open.spotify.com → Click your name → Copy URL
+- The ID is the part after `/user/`
+
+### **Customization Options:**
+
 ```
-?uid=YOUR_USER_ID
-&cover_image=true          // Show album cover
-&theme=novatorem           // Cyberpunk theme
-&show_offline=false        // Hide when not playing
-&background_color=0d1117   // Dark background
-&bar_color=00ff41          // Neon green progress bar
-&bar_color_cover=true      // Match bar to album color
+Parameters you can change:
+?uid=YOUR_USER_ID              // Your Spotify user ID
+&cover_image=true              // Show album cover
+&theme=novatorem               // Theme (novatorem, default, compact, natemoo-re, karaoke)
+&show_offline=true             // Show last played when offline
+&background_color=0d1117       // Background color (hex without #)
+&bar_color=00ff41              // Progress bar color (neon green)
+&bar_color_cover=false         // Use album color for bar
+&interchange=false             // Rotate between current and top tracks
 ```
 
-**Available Themes:**
-- `novatorem` - Cyberpunk green (recommended)
+### **Available Themes:**
+- `novatorem` - Cyberpunk green (current)
 - `default` - Classic Spotify green
 - `compact` - Minimal design
 - `natemoo-re` - Gradient style
 - `karaoke` - Lyrics style
+
+### **Troubleshooting:**
+
+**Widget not showing?**
+- Make sure your Spotify profile is public
+- Check if your user ID is correct
+- Try setting `show_offline=true` to see last played song
+
+**Want to show top tracks instead?**
+- Uncomment the "Alternative" section above
+- Or use: `&interchange=true` to rotate between current and top tracks
+
+**Privacy concerns?**
+- You can set your Spotify listening activity to private in Spotify settings
+- The widget will then show your top tracks instead of current song
 
 </details>
 
