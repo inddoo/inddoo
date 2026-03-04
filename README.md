@@ -84,9 +84,39 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<sub>⚠️ Snake animation requires GitHub Actions workflow to be set up</sub>
+</div>
+
+---
+
+## 📈 CONTRIBUTION_CALENDAR
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00ff99/inddoo" alt="GitHub Contribution Chart" width="98%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inddoo&theme=github_dark" width="98%" />
 
 </div>
+
+<details>
+<summary>⚠️ Snake not showing? Click here for setup instructions</summary>
+
+<br>
+
+**To enable the snake animation:**
+
+1. Make sure this repository name matches your GitHub username (`inddoo`)
+2. Go to repository Settings → Actions → General
+3. Enable "Read and write permissions" for workflows
+4. Go to Actions tab and run "Generate Snake Animation" workflow manually
+5. Wait for the workflow to complete
+6. The snake will appear and update every 12 hours automatically
+
+**Note:** The contribution calendar above will work immediately without any setup!
+
+</details>
 
 ---
 
