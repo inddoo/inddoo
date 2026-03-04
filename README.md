@@ -63,16 +63,41 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inddoo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=inddoo" alt="Top Languages" />
 </p>
 
+<!-- Alternative if stats don't load -->
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inddoo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inddoo&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inddoo&theme=tokyonight" alt="Most Commit Language" />
 </p>
+-->
+
+<details>
+<summary>💡 Stats not showing? Click here</summary>
+
+<br>
+
+**Kemungkinan penyebab:**
+- Belum ada repository public dengan code
+- GitHub API sedang rate limited (tunggu beberapa menit)
+- Username belum benar
+
+**Cara memperbaiki:**
+1. Buat beberapa repository public
+2. Push code ke repository Anda
+3. Tunggu beberapa menit agar GitHub mengindex repo
+4. Refresh halaman ini
+
+**Atau uncomment alternatif stats di atas (hapus `<!--` dan `-->`)**
+
+</details>
 
 <br>
 
