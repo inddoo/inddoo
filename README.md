@@ -60,15 +60,27 @@
 
 <br>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=tokyonight" alt="inddoo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inddoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="inddoo" />
+  <img src="https://streak-stats.demolab.com/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inddoo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 <br>
 
@@ -100,7 +112,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inddoo&label=Profile%20views&color=0e75b6&style=flat" alt="inddoo" />
+  <img src="https://komarev.com/ghpvc/?username=inddoo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
