@@ -29,15 +29,19 @@
 ### 📊 SYSTEM_ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Main Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99&include_all_commits=true&count_private=true" alt="Main Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=00ff99" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=github-compact&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=false&border_color=00ff99&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 </p>
 
 ---
