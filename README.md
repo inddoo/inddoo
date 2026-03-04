@@ -60,8 +60,46 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/inddoo" alt="GitHub Contribution Chart" width="98%" />
+  <img src="https://ghchart.rshah.org/00ff41/inddoo" alt="GitHub Contribution Chart" width="98%" />
 </p>
+
+<br>
+
+## 🏙️ 3D Contribution Matrix
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=⚡%20Contribution%20Activity%20-%20Matrix%20Style%20⚡" alt="Contribution Activity Graph" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inddoo&theme=github_dark&utcOffset=7" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inddoo&theme=github_dark" alt="Stats" width="48%" />
+</p>
+
+<details>
+<summary>🎮 Want more 3D visualization?</summary>
+
+<br>
+
+**Setup 3D Contribution Snake:**
+1. Make sure `.github/workflows/snake.yml` is pushed to your repo
+2. Go to Actions tab and enable workflows
+3. Run "Generate Snake Animation" manually
+4. The 3D snake will appear above and update every 12 hours
+
+**Alternative 3D Tools:**
+- [Skyline](https://skyline.github.com/inddoo/2024) - Generate 3D city from your contributions
+- [GitHub Wrapped](https://www.githubwrapped.io/inddoo) - Year in review with 3D stats
+
+</details>
 
 <br>
 
