@@ -18,17 +18,14 @@
 
 ## ⚡ STACK
 
-<p align="center">
-  ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
-  ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
-  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00ff99)
-  ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff99)
-  ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff99)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
-  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
-</p>
-
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00ff99)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff99)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff99)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
 ---
 
 ## 📊 ANALYTICS
