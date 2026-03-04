@@ -60,12 +60,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight" alt="inddoo" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=tokyonight" alt="inddoo" />
 </p>
@@ -75,12 +69,6 @@
 </p>
 
 <br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="inddoo" />
-</p>
 
 <br>
 
