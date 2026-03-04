@@ -63,11 +63,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inddoo&theme=tokyonight" alt="Repos per Language" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inddoo&theme=tokyonight" alt="Most Commit Language" />
 </p>
