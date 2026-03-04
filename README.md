@@ -1,224 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=INDDOO&fontSize=70&fontColor=d4af37&animation=fadeIn&fontAlignY=35&desc=Artisan%20of%20Modern%20Computation&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=INDDOO&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=⚡%20DIGITAL%20ARTISAN%20⚡&descSize=18&descAlignY=55&descAlign=50" />
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                    ⚜️  ESTABLISHED IN THE DIGITAL ERA  ⚜️                    ║
-║                                                                              ║
-║                          ═══════════════════════════                         ║
-║                                                                              ║
-║                              I  N  D  D  O  O                                ║
-║                                                                              ║
-║                        Artisan of Modern Computation                         ║
-║                                                                              ║
-║                          ═══════════════════════════                         ║
-║                                                                              ║
-║                    "Code with Elegance, Build with Purpose"                  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+███████╗███████╗████████╗    ██╗███╗   ██╗    ████████╗██╗  ██╗███████╗
+██╔════╝██╔════╝╚══██╔══╝    ██║████╗  ██║    ╚══██╔══╝██║  ██║██╔════╝
+█████╗  ███████╗   ██║       ██║██╔██╗ ██║       ██║   ███████║█████╗  
+██╔══╝  ╚════██║   ██║       ██║██║╚██╗██║       ██║   ██╔══██║██╔══╝  
+███████╗███████║   ██║       ██║██║ ╚████║       ██║   ██║  ██║███████╗
+╚══════╝╚══════╝   ╚═╝       ╚═╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚══════╝
+                                                                         
+██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗         ███████╗██████╗  █████╗ 
+██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║         ██╔════╝██╔══██╗██╔══██╗
+██║  ██║██║██║  ███╗██║   ██║   ███████║██║         █████╗  ██████╔╝███████║
+██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║         ██╔══╝  ██╔══██╗██╔══██║
+██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗    ███████╗██║  ██║██║  ██║
+╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=D4AF37&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9A%99%EF%B8%8F+Forging+Digital+Masterpieces+Since+the+Dawn+of+Code+%E2%9A%99%EF%B8%8F;%F0%9F%8E%A9+Where+Victorian+Elegance+Meets+Modern+Innovation+%F0%9F%8E%A9;%E2%9C%A8+Crafting+Tomorrow's+Solutions+with+Yesterday's+Grace+%E2%9C%A8" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Crafting+Digital+Masterpieces+in+Neon+Light+%E2%9A%A1;%F0%9F%92%BB+Where+Retro+Elegance+Meets+Cyber+Innovation+%F0%9F%92%BB;%E2%9C%A8+Building+Tomorrow+with+Code+%26+Creativity+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **ABOUT THE ARCHITECT**
+
 <div align="center">
 
-### 🎩 *Greetings, Distinguished Visitor* 🎩
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  ⚡ CURRENT MISSION    → Building Revolutionary Digital Solutions     ║
+║  🎯 LEARNING PATH     → Mastering Modern Web Architecture            ║
+║  🤝 COLLABORATION     → Open to Innovative Projects & Ideas           ║
+║  💡 SPECIALIZATION    → Full-Stack Development & UI/UX Design         ║
+║  🌐 LOCATION          → Coding from the Digital Realm                 ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-*In the grand tradition of craftsmen and inventors of yesteryear,*  
-*I present to you my digital atelier—a collection of modern marvels*  
-*crafted with the precision of a Victorian clockmaker*  
-*and the vision of an industrial pioneer.*
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 📜 *The Chronicle of My Endeavors*
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> **TECH ARSENAL**
 
 <div align="center">
 
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║           🔥 WEAPONS OF CHOICE - BATTLE TESTED 🔥              ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ⚙️  Currently Engineering: Revolutionary Digital Solutions │
-│  📚  Studying the Arts of: Modern Web Architecture         │
-│  🤝  Seeking Collaboration: Fellow Artisans & Visionaries  │
-│  ✉️  Correspondence Via: [Your Contact Information]        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+
+### **⚡ Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,vue,angular,nodejs,express&theme=dark&perline=6" />
+
+### **🛠️ Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,bash,vim,postman,figma,photoshop,illustrator&theme=dark&perline=6" />
+
+### **☁️ Cloud & Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,gcp,azure,vercel,netlify,heroku&theme=dark&perline=6" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 🏛️ *The Workshop of Technologies*
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> **PERFORMANCE METRICS**
 
 <div align="center">
 
-*Tools of the Trade — Mastered with Dedication*
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    ⚡ Languages & Frameworks ⚡                            ║
-║    ────────────────────────────                            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║              📊 REAL-TIME STATISTICS & ANALYTICS 📊                   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,git,github,vscode,figma&theme=dark&perline=6" alt="Tech Stack" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&border_radius=10" />
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    🔧 Specialized Instruments 🔧                           ║
-║    ──────────────────────────                              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=inddoo&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10&layout=compact&custom_title=Weekly%20Coding%20Time" />
 
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,mongodb,postgresql,firebase,vercel,netlify&theme=dark&perline=4" alt="Tools" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&custom_title=Contribution%20Graph%20-%20The%20Journey%20of%20Code" alt="Contribution Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=inddoo&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=d4af37&text_color=c9c9c9&layout=compact&custom_title=Weekly%20Coding%20Activities" alt="Wakatime Stats" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 🎯 *Philosophy & Principles*
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c7e-b03e-53b8a3d5e1e5.png" width="30" /> **TROPHY COLLECTION**
 
 <div align="center">
 
-> *"In the spirit of the great inventors—Edison, Tesla, and Bell—*  
-> *I believe in the power of innovation tempered with elegance.*  
-> *Every line of code is a brushstroke on the canvas of progress."*
-
-</div>
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                            ┃
-┃  ⚜️  Quality over Quantity                                 ┃
-┃  ⚜️  Elegance in Simplicity                                ┃
-┃  ⚜️  Innovation with Purpose                               ┃
-┃  ⚜️  Collaboration over Competition                        ┃
-┃                                                            ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                  🏆 ACHIEVEMENTS UNLOCKED 🏆                          ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
 
-## 📊 *Statistical Observations*
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║           📈  METRICS OF DIGITAL CRAFTSMANSHIP  📈        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=d4af37&icon_color=d4af37&text_color=c9c9c9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=gruvbox&hide_border=true&background=1a1a1a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=d4af37&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=c9c9c9" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=d4af37&text_color=c9c9c9&langs_count=8" alt="Top Languages" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 🎪 *The Grand Exhibition of Activities*
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> **THE SNAKE OF CONTRIBUTION**
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║        🎭  CHRONICLES OF CONTRIBUTION & INNOVATION  🎭            ║
-║                                                                   ║
-║     "Every commit is a testament to dedication and craft"         ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=github-compact&bg_color=1a1a1a&color=d4af37&line=d4af37&point=c9c9c9&area=true&hide_border=true&custom_title=The%20Ledger%20of%20Digital%20Craftsmanship" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 *Trophies & Accolades*
-
-<div align="center">
-
-```
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│        🎖️  MEDALS OF HONOR IN THE DIGITAL REALM  🎖️      │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## ⚡ *The Animated Chronicles*
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    🎬  MOTION PICTURES OF CODING EXCELLENCE  🎬            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Artisan+of+Modern+Computation;Crafting+Elegant+Solutions;Building+the+Future+with+Code;Est.+in+the+Digital+Era" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-```
-    ⚙️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚙️
-    
-         🎩  "Innovation Through Dedication"  🎩
-         
-    ⚙️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚙️
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Crafted%20with%20Precision&fontSize=20&fontColor=d4af37&animation=twinkling" />
-
-</div>
-
----
-
-## 🐍 *The Serpentine Path of Contribution*
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║     🎪  BEHOLD! THE MECHANICAL SERPENT OF PROGRESS  🎪            ║
-║                                                                   ║
-║   "Watch as it devours the fruits of labor and dedication"        ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║         🐍 WATCH THE NEON SERPENT CONSUME MY COMMITS 🐍               ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 <picture>
@@ -227,49 +142,116 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
----
-
-## 🎭 *Notable Exhibitions*
-
-<div align="center">
-
-*A Selection of Distinguished Works*
-
-```
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│  🏆  Featured Projects — Crafted with Excellence          │
-│  ─────────────────────────────────────────────────        │
-│                                                           │
-│  [Pin your best repositories here]                        │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## 📮 *Establish Correspondence*
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **FEATURED PROJECTS**
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        🎩  LET US COLLABORATE ON GRAND VENTURES  🎩      ║
-║                                                          ║
-║  I welcome discourse with fellow craftsmen,              ║
-║  visionaries, and patrons of the digital arts.           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║              💎 SHOWCASE OF DIGITAL CRAFTSMANSHIP 💎                  ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=1a1a1a)](your-portfolio-url)
+<a href="https://github.com/inddoo/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inddoo&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10" />
+</a>
+<a href="https://github.com/inddoo/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inddoo&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **CONNECT WITH ME**
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║           🌐 LET'S BUILD SOMETHING AMAZING TOGETHER 🌐                ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+<a href="https://instagram.com/your-handle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+<a href="https://discord.gg/your-server">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&color=0D1117&labelColor=00F7F7" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **CODING PHILOSOPHY**
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "Code is like humor. When you have to explain it, it's bad."        ║
+║                          - Cory House                                 ║
+║                                                                       ║
+║  ⚡ Write Clean Code                                                  ║
+║  🎯 Focus on Solutions                                                ║
+║  🚀 Never Stop Learning                                               ║
+║  💡 Share Knowledge                                                   ║
+║  🤝 Collaborate & Grow                                                ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1b9c6-635e-4c7e-b03e-53b8a3d5e1e5.png" width="30" /> **VISITOR ANALYTICS**
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                    📈 PROFILE ENGAGEMENT STATS 📈                     ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=inddoo&style=for-the-badge&color=00F7F7&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/inddoo?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=00F7F7" />
+<img src="https://img.shields.io/github/stars/inddoo?style=for-the-badge&logo=github&logoColor=white&label=TOTAL+STARS&labelColor=0D1117&color=00F7F7&affiliations=OWNER" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
@@ -277,32 +259,20 @@
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════════════════════
-
-            ⚜️  EST. 20XX  •  INDDOO  •  DIGITAL ARTISAN  ⚜️
-
-    "Forging the Future with the Elegance of the Past"
-
-═══════════════════════════════════════════════════════════════
-```
-
-<img src="https://komarev.com/ghpvc/?username=inddoo&color=d4af37&style=for-the-badge&label=DISTINGUISHED+VISITORS" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/inddoo?style=for-the-badge&logo=github&logoColor=white&label=PATRONS&labelColor=1a1a1a&color=d4af37" alt="Followers" />
-
-<img src="https://img.shields.io/github/stars/inddoo?style=for-the-badge&logo=github&logoColor=white&label=ACCOLADES&labelColor=1a1a1a&color=d4af37&affiliations=OWNER" alt="Stars" />
-
-```
-    ╔═══════════════════════════════════════════════════════╗
-    ║                                                       ║
-    ║  ⚙️  Powered by Victorian Steam & Modern Silicon  ⚙️  ║
-    ║                                                       ║
-    ╚═══════════════════════════════════════════════════════╝
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                  ⚡ POWERED BY PASSION & CAFFEINE ⚡                   ║
+║                                                                       ║
+║              💻 Crafted with 💙 by INDDOO | EST. 20XX                ║
+║                                                                       ║
+║                "Building the Future, One Commit at a Time"            ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<sub>*Crafted with dedication in the tradition of fine workmanship*</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
