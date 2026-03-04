@@ -40,12 +40,13 @@
 ## 📊 ANALYTICS & ARTIFACTS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99" alt="Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideNums=00ff99&sideLabels=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" alt="Streak" />
 </p>
 
 ---
