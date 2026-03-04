@@ -1,193 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=INDDOO&fontSize=80&fontColor=00ff99&animation=twinkling&fontAlignY=35&desc=SYSTEM%20ARCHITECT%20%7C%20DIGITAL%20BUILDER&descSize=16&descAlignY=55" />
+# 👋 Hi, I'm INDDOO
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Architect;Digital+Builder;Debugging+the+Matrix...;Executing+Clean+Code..." />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff99?style=for-the-badge&logo=target&logoColor=000000" />
-<img src="https://img.shields.io/badge/DATABASE-ENCRYPTED-00ff99?style=for-the-badge&logo=databricks&logoColor=000000" />
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=inddoo&color=00ff99&style=flat-square&label=SYS+VISITORS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/inddoo?color=00ff99&style=flat-square&label=NETWORK+FOLLOWERS" alt="Followers" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=440&lines=Fullstack+Developer;System+Architect;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🖥️ CORE_TECHNOLOGIES.exe
+### 🚀 About Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,nodejs,mongodb,mysql&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=php,python,git,github,vscode,docker,linux,bash&theme=dark" />
-
-</div>
-
----
-
-## 📊 SYSTEM_ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99&include_all_commits=true&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=00ff99&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff99&text_color=ffffff&border_color=00ff99&langs_count=8&hide_border=false" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inddoo&theme=github_dark&utcOffset=7" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=github-compact&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=false&border_color=00ff99&custom_title=Contribution%20Activity%20Graph" width="98%" />
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT_UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION_SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inddoo/inddoo/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-## 📈 CONTRIBUTION_CALENDAR
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00ff99/inddoo" alt="GitHub Contribution Chart" width="98%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inddoo&theme=github_dark" width="98%" />
-
-</div>
-
-<details>
-<summary>⚠️ Snake not showing? Click here for setup instructions</summary>
-
-<br>
-
-**To enable the snake animation:**
-
-1. Make sure this repository name matches your GitHub username (`inddoo`)
-2. Go to repository Settings → Actions → General
-3. Enable "Read and write permissions" for workflows
-4. Go to Actions tab and run "Generate Snake Animation" workflow manually
-5. Wait for the workflow to complete
-6. The snake will appear and update every 12 hours automatically
-
-**Note:** The contribution calendar above will work immediately without any setup!
-
-</details>
-
----
-
-## 💼 FEATURED_PROJECTS
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║              📦 PIN YOUR BEST REPOSITORIES HERE 📦            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+```javascript
+const inddoo = {
+    location: "Indonesia",
+    role: "Fullstack Developer",
+    code: ["JavaScript", "PHP", "Python", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React", "Vue", "Tailwind CSS"],
+        backend: ["Node.js", "Laravel", "Express"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentFocus: "Building awesome web applications",
+    funFact: "I debug with console.log() 🐛"
+};
 ```
 
-<!-- Uncomment and replace with your actual repo names
-<a href="https://github.com/inddoo/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inddoo&repo=project1&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" />
-</a>
-<a href="https://github.com/inddoo/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inddoo&repo=project2&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" />
-</a>
--->
+---
+
+### �️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00ff99)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=00ff99)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=00ff99)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=00ff99)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&logoColor=00ff99)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=00ff99)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=00ff99)
 
 </div>
 
 ---
 
-## 🌐 CONNECT_WITH_ME
+### 📊 GitHub Stats
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║          🔗 LET'S BUILD SOMETHING AMAZING TOGETHER 🔗         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=radical&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&hide_border=true" />
 
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=00ff99" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=00ff99" />
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=000000&labelColor=00ff99" />
-</a>
-<a href="https://instagram.com/your-handle">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=00ff99" />
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&color=000000&labelColor=00ff99" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inddoo&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff99&text_color=ffffff&border_color=00ff99&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## ✨ PARTICLE_FIELD
+### 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=react-dark&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+### � Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
@@ -195,18 +93,8 @@
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║         ⚡ POWERED BY PASSION & CAFFEINE ⚡                    ║
-║                                                               ║
-║           💻 Crafted with 💚 by INDDOO | EST. 2024           ║
-║                                                               ║
-║          "Building the Future, One Commit at a Time"          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=inddoo&color=00ff99&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" />
+**💚 Thanks for visiting!**
 
 </div>
