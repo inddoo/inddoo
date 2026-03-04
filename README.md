@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inddoo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=inddoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <br>
@@ -89,7 +89,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inddoo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/inddoo" alt="GitHub Contribution Chart" width="98%" />
 </p>
 
 <br>
@@ -114,7 +114,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inddoo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/inddoo.svg?style=flat&label=Profile%20Views&color=58A6FF" alt="Profile Views" />
 </p>
 
 <p align="center">
