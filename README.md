@@ -17,6 +17,69 @@
 
 <br>
 
+## 🎧 Now Playing - Hacker Soundtrack
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<!-- Alternative Spotify Widget - Uncomment to use -->
+<!--
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify Recently Played" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
+  <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+</p>
+
+<details>
+<summary>🎵 Setup Spotify Integration</summary>
+
+<br>
+
+**How to connect your Spotify:**
+
+1. Go to [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile)
+2. Click "Deploy to Vercel" button
+3. Connect your Spotify account
+4. Get your Spotify User ID:
+   - Go to [Spotify Account](https://www.spotify.com/account/overview/)
+   - Copy your username/user ID
+5. Replace `YOUR_SPOTIFY_USER_ID` in the URL above
+6. Your currently playing song will show in real-time!
+
+**Alternative Tools:**
+- [Spotify Recently Played](https://github.com/JeffreyCA/spotify-recently-played-readme) - Show last 5 songs
+- [Spotify Top Tracks](https://github.com/kittinan/spotify-github-profile) - Show your top tracks
+
+**Customization:**
+```
+?uid=YOUR_USER_ID
+&cover_image=true          // Show album cover
+&theme=novatorem           // Cyberpunk theme
+&show_offline=false        // Hide when not playing
+&background_color=0d1117   // Dark background
+&bar_color=00ff41          // Neon green progress bar
+&bar_color_cover=true      // Match bar to album color
+```
+
+**Available Themes:**
+- `novatorem` - Cyberpunk green (recommended)
+- `default` - Classic Spotify green
+- `compact` - Minimal design
+- `natemoo-re` - Gradient style
+- `karaoke` - Lyrics style
+
+</details>
+
+<br>
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -53,14 +116,6 @@
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=inddoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff41/inddoo" alt="GitHub Contribution Chart" width="98%" />
 </p>
 
 <br>
