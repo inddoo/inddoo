@@ -1,79 +1,101 @@
-# 🏙️ CITY_TERMINAL / USER: INDDOO
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=INDDOO&fontColor=00ff99&fontSize=50&animation=fadeIn" />
+</p>
 
-<div align="center">
-
-<pre>
-  ___  __    _  ________  ________  ________  ________  ________  
- /__/\/_/\  /_/\/_  __  \/\  __  \/\  __  \/\  __  \/\  __  \ 
- \  \ \ \ \ \ \ \ \ \/\  \ \ \/\  \ \ \/\  \ \ \/\  \ \ \/\  \
-  \  \ \ \ \ \ \ \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \
-   \  \ \ \ \_\ \ \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \ \ \ \  \
-    \__\/  \_____\/\__\/ \__\/\__\/ \__\/\__\/ \__\/ \__\/\__\/ 
-           v3.0 // URBAN_CORE_SYSTEM // EST. 2026
-</pre>
-
-### ⚡ FULL-STACK ARCHITECT // CREATIVE TECHNOLOGIST ⚡
-*Arsitek digital di tengah rimba neon. Mengubah baris kode menjadi infrastruktur masa depan.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=22&center=true&vCenter=true&width=600&lines=System+Builder;Fullstack+Developer;Code+Architect;Urban+Digital+Mind" />
+</p>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff" alt="Inddoo Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Top Langs" height="160" />
+### 💻 INITIALIZING...
 
-</div>
-
-## 🏗️ THE_STACK (URBAN_INFRASTRUCTURE)
-
-Gue nggak cuma ngetik, gue ngebangun. Ini daftar "alat berat" yang gue pake:
-
-### 🔗 [FRONT_END_DISTRICT]
-* **Languages:** `JavaScript (ES6+)`, `TypeScript`, `HTML5/CSS3`
-* **Frameworks:** `React.js`, `Next.js 14+`, `Vue.js`
-* **Styling:** `Tailwind CSS`, `Sass`, `Framer Motion`, `GSAP` (Smooth Animations)
-* **3D/Visual:** `Three.js`, `React Three Fiber`, `Spline`
-
-### ⚙️ [BACK_END_PLANT]
-* **Runtime/Lang:** `Node.js`, `Bun`, `Go (Golang)`, `Python`
-* **Frameworks:** `Express`, `NestJS`, `FastAPI`
-* **Database:** `PostgreSQL`, `MongoDB`, `Redis`, `Supabase`
-* **Architecture:** `REST API`, `GraphQL`, `Microservices`
-
-### 🛰️ [DEVOPS_&_SYSTEMS]
-* **Cloud:** `AWS`, `Vercel`, `DigitalOcean`
-* **Containers:** `Docker`, `Kubernetes`
-* **CI/CD:** `GitHub Actions`, `Gitlab CI`
-* **Tools:** `Git`, `Postman`, `Linux/Zsh`
+```
+> initializing profile...
+> loading developer data...
+> access granted.
+```
 
 ---
 
-## 🚧 ACTIVE_CONSTRUCTION (PROJECTS)
+## 🧠 WHOAMI
 
-| Project Name | Status | Tech Stack |
-| :--- | :--- | :--- |
-| **NeonCity-Dashboard** | `Building` | Next.js, Three.js, Tailwind |
-| **Inddoo-API-Core** | `Stable` | Go, PostgreSQL, Redis |
-| **Grid-Runner-UI** | `Beta` | React, Framer Motion, GSAP |
+```
+Name        : Prima
+Username    : inddoo
+Role        : Informatics Student
+Speciality  : Web Development & System Design
+Mindset     : Build. Break. Improve.
+Status      : Shipping Projects.
+```
 
 ---
 
-## 📡 CONNECT_TO_SOURCE
+## ⚙ TECH ARSENAL
 
-> "The code is the city, and I am the architect."
+### 🖥 FRONTEND
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00ff99)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00ff99)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff99)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff99)
 
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:contact@inddoo.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+### 🧩 BACKEND
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff99)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff99)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff99)
 
-<br />
+### 🗄 DATABASE
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff99)
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM_VISITS&color=00f2ff&style=flat-square" alt="Visits" />
+---
+
+## 📊 SYSTEM STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inddoo&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_color=00ff99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inddoo&theme=black-ice&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+</p>
+
+---
+
+## 🛰 ACTIVE PROJECTS
+
+```
+> Florina App (Flutter + Node + MongoDB)
+> Mpus Digital Library
+> Data Mining Research
+> E-Commerce Systems
+```
+
+---
+
+## ☠ PHILOSOPHY
+
+```
+I don't just write code.
+I design systems.
+
+Every project is architecture.
+Every bug is a lesson.
+Every deployment is evolution.
+```
+
+---
+
+## 🌐 CONNECT
+
+```
+Email   : your@email.com
+Status  : Available for collaboration
+Mode    : Always building
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=120&section=footer" />
 </p>
